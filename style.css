@@ -1,5 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Sniglet:wght@400;800&family=Work+Sans:wght@600&display=swap');
+
+*{
+
+
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
 .card {
 
     border: none;
 
 }
+
+.cat-1 {
+
+    background-color: #FF9C35;
+}
+
+.cat-2 {
+
+    background-color: #FF589B;
+}
+
+.cat-3 {
+
+    background-color: #4289FF;
+}
+
+.input-mine {
+
+    border: 0;
+    outline: none;
+}
+
